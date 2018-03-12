@@ -1,0 +1,10 @@
+C:\Users\Alumno\Desktop\Topicos\Topicos\bin\Debug\Topicos.exe.config
+C:\Users\Alumno\Desktop\Topicos\Topicos\bin\Debug\Topicos.exe
+C:\Users\Alumno\Desktop\Topicos\Topicos\bin\Debug\Topicos.pdb
+C:\Users\Alumno\Desktop\Topicos\Topicos\obj\Debug\Topicos.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\Topicos\Topicos\obj\Debug\Topicos.Form1.resources
+C:\Users\Alumno\Desktop\Topicos\Topicos\obj\Debug\Topicos.Form2.resources
+C:\Users\Alumno\Desktop\Topicos\Topicos\obj\Debug\Topicos.Properties.Resources.resources
+C:\Users\Alumno\Desktop\Topicos\Topicos\obj\Debug\Topicos.csproj.GenerateResource.Cache
+C:\Users\Alumno\Desktop\Topicos\Topicos\obj\Debug\Topicos.exe
+C:\Users\Alumno\Desktop\Topicos\Topicos\obj\Debug\Topicos.pdb
